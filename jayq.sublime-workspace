@@ -1,0 +1,463 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"func Println\tn int, err error"
+			],
+			[
+				"putSt",
+				"putStrLn\t  System.IO"
+			],
+			[
+				"lex",
+				"lexer\t  Sea.Lexer"
+			],
+			[
+				"main",
+				"Main"
+			],
+			[
+				"hand",
+				"handle_with_curl"
+			],
+			[
+				"gf",
+				"gfcontext_t"
+			],
+			[
+				"GFS",
+				"GFS_WORKER_FUNC"
+			],
+			[
+				"gfser",
+				"gfserver_setopt"
+			],
+			[
+				"padd",
+				"paddingHorizontal\tnumber, string"
+			],
+			[
+				"marg",
+				"marginLeft\tnumber, string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "go.mod",
+			"settings":
+			{
+				"buffer_size": 71,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.go",
+			"settings":
+			{
+				"buffer_size": 3823,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": -5.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"debug",
+				"Preferences: GoDebug Settings – User"
+			],
+			[
+				"gode",
+				"GoDebug: Enable"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"go build",
+				"Build With: Go"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"lsp doc",
+				"LSP: Show Diagnostics"
+			],
+			[
+				"ls",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": -221.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/harisamin/workspace/random/jayq"
+	],
+	"file_history":
+	[
+		"/Users/harisamin/Library/Application Support/Sublime Text 3/Packages/User/GoDebug.sublime-settings",
+		"/Users/harisamin/workspace/random/jayq/go.sum",
+		"/Users/harisamin/go/src/github.com/dstpierre/gosaas/model/token.go",
+		"/Users/harisamin/workspace/gatech/gios/pr1/Readme.md",
+		"/Users/harisamin/workspace/gatech/gios/pr1/mtgf/handler.c",
+		"/Users/harisamin/workspace/gatech/gios/pr1/gflib/gfclient.c",
+		"/Users/harisamin/workspace/gatech/gios/pr1/mtgf/gfclient_download.c",
+		"/Users/harisamin/workspace/gatech/gios/pr1/gflib/content.c",
+		"/Users/harisamin/workspace/gatech/gios/pr3/server/gfserver.h",
+		"/Users/harisamin/Desktop/gatech_2fa_backup_codes.txt",
+		"/Users/harisamin/margin/docker-compose.yaml",
+		"/Users/harisamin/margin/config/initializers/sidekiq.rb",
+		"/Users/harisamin/margin/.configrc",
+		"/Users/harisamin/margin/config/cable.yml",
+		"/Users/harisamin/margin/Rakefile",
+		"/Users/harisamin/margin/config/initializers/elasticsearch.rb",
+		"/Users/harisamin/margin/config/database.yml",
+		"/Users/harisamin/margin/Dockerfile",
+		"/Users/harisamin/margin/config/database.yml.example",
+		"/Users/harisamin/MarginApp/.gitignore",
+		"/Users/harisamin/workspace/ChambasNYC/App/I18n/languages/es.json",
+		"/Users/harisamin/workspace/ChambasNYC/README.md",
+		"/Users/harisamin/workspace/ChambasNYC/App/Navigation/LoggedInStackNavigator.js",
+		"/Users/harisamin/workspace/ChambasNYC/package.json",
+		"/Users/harisamin/workspace/ChambasNYC/App/Components/SubwayLine.js",
+		"/Users/harisamin/workspace/ChambasNYC/App/Containers/JobDetail.js",
+		"/Users/harisamin/workspace/ChambasNYC/App/Containers/Styles/ProfileFormStyle.js",
+		"/Users/harisamin/workspace/ChambasNYC/.configrc"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bufio",
+			"json",
+			"gocode",
+			"when"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "go.mod",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"SL.197.region_keys":
+							[
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3093,
+								3093
+							]
+						],
+						"settings":
+						{
+							"SL.116.region_keys":
+							[
+							],
+							"SL.198.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Go/Go.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 922.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gofmt":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 108.0
+	},
+	"output.gotools_syntax_errors":
+	{
+		"height": 108.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "jayq.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"logg",
+				"logger.go"
+			],
+			[
+				"queue",
+				"queue/queue.go"
+			],
+			[
+				"toke.",
+				"model/token.go"
+			],
+			[
+				".co",
+				".configrc"
+			],
+			[
+				"doc",
+				"docker-compose.yaml"
+			],
+			[
+				"do",
+				"docker-compose.yaml"
+			],
+			[
+				"config/sid",
+				"config/initializers/sidekiq.rb"
+			],
+			[
+				"dock",
+				"Dockerfile"
+			],
+			[
+				"r",
+				"Rakefile"
+			],
+			[
+				"es.j",
+				"App/I18n/languages/es.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"read",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"delve_enable": false,
+		"godebug_executables":
+		{
+			"debug":
+			{
+				"mode": "debug"
+			},
+			"test":
+			{
+				"mode": "test"
+			}
+		}
+	}
+}
