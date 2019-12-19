@@ -4,6 +4,7 @@ import (
     bio "bufio"
     "bytes"
     "encoding/json"
+    "flag"
     "fmt"
     "github.com/SierraSoftworks/connor"
     "io"
@@ -24,6 +25,33 @@ func parse(d string) map[string]interface{} {
 func main() {
     log.SetFlags(log.LstdFlags | log.Lshortfile)
 
+    // var count int
+    // var conditions string
+    // flag.StringVar(&conditions, "q", "", "query i.e. {}")
+    // flag.Parse()
+    // if flag.Arg(0) == "" {
+    //     log.Fatal("Missing query!")
+    // }
+
+    conditions := flag.String("q", "", "query")
+    flag.Parse()
+
+    log.Println(*conditions)
+
+    // var in io.Reader
+    // if filename := flag.Arg(0); filename != "" {
+    //     f, err := os.Open(filename)
+    //     if err != nil {
+    //         fmt.Println("error opening file: err:", err)
+    //         os.Exit(1)
+    //     }
+    //     defer f.Close()
+
+    //     in = f
+    // } else {
+    //     in = os.Stdin
+    // }
+
     var buf bytes.Buffer
     reader := bio.NewReader(os.Stdin)
 
@@ -42,9 +70,10 @@ func main() {
 
     }
 
-    conds := parse(`{
-            "id": 1
-        }`)
+    // conds := parse(`{
+    //         "id": 1
+    //     }`)
+    conds := parse(string(*conditions))
 
     log.Println("*************")
 
