@@ -68,6 +68,7 @@ func main() {
         if match, err := connor.Match(conds, jsonMap); err != nil {
             log.Fatal("failed to run match:", err)
         } else if match {
+            numFoundMatches++
             enc.Encode(jsonMap)
         }
     }
